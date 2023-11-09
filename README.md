@@ -17,8 +17,12 @@ The VLSM calculator is designed for scenarios where different subnets have diffe
 The CIDR calculator calculates CIDR notation based on a given network address and the number of significant bits. CIDR notation is commonly used in routing and IP address allocation.
 
 ### 5. Easy Subnet Calculator - Beginner-Friendly Subnetting Tool
+simplified subnetting tool designed specifically for beginners. It takes a network IP address and the number of subnet bits as input, providing subnet mask, network address, and broadcast address as output. It aims to be beginner-friendly and easy to understand.
 
 ### 6. Mega Subnet Calculator - All of the above!
+
+## Usage
+Each calculator is a separate Python script. You can run the calculators individually based on your specific subnetting needs. Simply input the required information as prompted, and the calculators will provide the necessary output.
 
 ## Dependencies
 
