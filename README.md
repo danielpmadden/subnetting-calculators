@@ -8,6 +8,7 @@ Created for everyone, this repository contains a collection of Python programs d
 - **IP Address Validation:** Validate IP addresses before calculating subnet masks.
 - **Variable Length Subnet Masking (VLSM) Calculator:** Calculate subnet masks for multiple subnets with different sizes.
 - **Classless Inter-Domain Routing (CIDR) Calculator:** Compute CIDR notation based on the network address and significant bits.
+- **Mega Subnet Calculator:** All of the above — in one!
 
 ## Dependencies
 
